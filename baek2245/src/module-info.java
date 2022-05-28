@@ -1,0 +1,2 @@
+module baek2245 {
+}
